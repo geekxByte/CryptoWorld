@@ -1,4 +1,4 @@
-## luganodes
+## Luganodes
 <p>Luganodes is a webpage that is used to track multiple cryptocurrency in the real-time environment and provide their current values in different currencies.</p>
 <p>To run this on your local machine use the command yarn in the terminal. After all the dependencies have been installed run the command yarn start in your terminal.</p>
 
